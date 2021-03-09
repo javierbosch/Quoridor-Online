@@ -5,3 +5,5 @@ I took on the last proposition and made platform to play Quoridor online, it aut
 Once playing the game I made it have the same aesthetic as if we where playing on a terminal, maybe a bit prettier and with less scrolls. Once the games are finish or left, they are deleted from the database.
 
 I built everything using React JS, Firebase and Material-UI.
+
+Hosted here: https://play-quoridor-online.herokuapp.com/
